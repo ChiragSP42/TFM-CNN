@@ -1,0 +1,6 @@
+.DS_Store
+Simulated Images/
+fastBEMoutputs.mat
+Image Simulation Code/
+.vscode/
+.ipynb_checkpoints/

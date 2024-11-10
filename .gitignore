@@ -4,3 +4,7 @@ fastBEMoutputs.mat
 Image Simulation Code/
 .vscode/
 .ipynb_checkpoints/
+bead_images.npy
+ref_images.npy
+force_x.npy
+force_y.npy

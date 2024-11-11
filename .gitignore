@@ -7,3 +7,5 @@ bead_images.npy
 ref_images.npy
 force_x.npy
 force_y.npy
+images.npy
+forces.npy

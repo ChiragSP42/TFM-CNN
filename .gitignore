@@ -9,3 +9,8 @@ force_x.npy
 force_y.npy
 images.npy
 forces.npy
+Remote_to_Local_Results/
+Unet_Axial/
+wandb/
+Unet_Axial.py
+.ipynb_checkpoints/Unet_Axial-checkpoint.py
